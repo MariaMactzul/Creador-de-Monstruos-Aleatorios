@@ -45,11 +45,6 @@ Una tarjeta típica incluirá:
 - Fondo colorido y borde decorativo
 - Texto con color variable
 
-## 📌 Requisitos
+## 📌 Imagen
 
-Este código requiere una estructura HTML con los siguientes elementos:
-
-```html
-<button id="Generador">Generar Monstruo</button>
-<button id="Eliminador">Eliminar Monstruos</button>
-<div class="monstruo"></div>
+![image](./Captura.png)
